@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MemProof — Verifiable Agent Memory Vault
 
 A decentralized, tamper-evident memory vault for AI agents.  
